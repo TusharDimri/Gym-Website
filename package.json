@@ -1,0 +1,15 @@
+{
+  "name": "gym-website",
+  "version": "1.0.0",
+  "description": "Himanshu Arora Fitness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar and Sachin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
